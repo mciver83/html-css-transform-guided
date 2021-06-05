@@ -28,7 +28,7 @@ In this step, let's also go ahead and change the title for our website. You can 
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="reset.css" />
     <link rel="stylesheet" href="style.css" />
-    <title>Media Queries</title>
+    <title>Tranform</title>
   </head>
 </html>
 ```
