@@ -1,0 +1,14 @@
+.square {
+  background-color: aqua;
+  height: 200px;
+  width: 200px;
+  margin: 50px;
+}
+
+.circle {
+  background-color: violet;
+  height: 200px;
+  width: 200px;
+  margin: 50px;
+  border-radius: 50%;
+}
