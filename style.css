@@ -13,4 +13,6 @@
   width: 200px;
   margin: 50px;
   border-radius: 50%;
+
+  transform: scale(2) translateX(100px) translateY(-200px);
 }
